@@ -1,5 +1,7 @@
 body{
-    background-color: rgb(118, 194, 4);
-    color: #f6f202;
+    background-color: rgb(179, 248, 76);
+    color: #fbff0b;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height:100vh;
+    margin: 0;
 }
