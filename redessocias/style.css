@@ -27,3 +27,23 @@ color: lawngreen;
 margin: 0rem 2rem 3rem 0rem;
 
 }
+ header{
+
+background-color: lime;
+text-align: center;
+padding: 1px;
+
+}
+ nav a {
+
+   text-decoration: lawngreen;
+   color: yellowgreen;
+   margin: 0rem 2rem 3rem 0rem;
+   font-size: 12rem;
+}
+
+nav a :hover{ 
+    text-decoration: underline;
+    transform: scale(0.90);
+    transition:transform 0.1s;
+}
